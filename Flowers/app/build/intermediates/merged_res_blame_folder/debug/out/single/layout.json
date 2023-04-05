@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.flowers.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.flowers.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.flowers.app-mergeDebugResources-32:/layout/fragment_main_two.xml",
+        "source": "com.example.flowers.app-main-35:/layout/fragment_main_two.xml"
+    },
+    {
+        "merged": "com.example.flowers.app-mergeDebugResources-32:/layout/fragment_main_one.xml",
+        "source": "com.example.flowers.app-main-35:/layout/fragment_main_one.xml"
+    },
+    {
+        "merged": "com.example.flowers.app-mergeDebugResources-32:/layout/fragment_main_three.xml",
+        "source": "com.example.flowers.app-main-35:/layout/fragment_main_three.xml"
+    },
+    {
+        "merged": "com.example.flowers.app-mergeDebugResources-32:/layout/fragment_main.xml",
+        "source": "com.example.flowers.app-main-35:/layout/fragment_main.xml"
+    }
+]
